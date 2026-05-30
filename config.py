@@ -1,0 +1,9 @@
+WIFI_SSID = "originaal"
+WIFI_PASS = "kristo00"
+
+HA_IP = "deb2"
+HA_PORT = 8123
+
+TOKEN = "LONG_LIVED_ACCESS_TOKEN"
+
+OLED_ADDR = 0x3C
